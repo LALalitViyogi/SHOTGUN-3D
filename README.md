@@ -1,4 +1,4 @@
-# DOOM style 3d (raycasting) game in Python (based on Wolfenstein 3d)
+# SHOT GUN 3D
 
 Control: 'WASD' + mouse
 
